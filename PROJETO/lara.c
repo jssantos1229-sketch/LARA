@@ -8,7 +8,7 @@ int main() {
  char estado[50];
  char codigo[5];
  char cidade[50];
-  int populacao;
+  int populacao
  float area;
  float pib;
  int pontosTuristicos;
